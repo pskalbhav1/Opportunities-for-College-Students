@@ -1,3 +1,3 @@
 # JP Morgan
 
-## Code for Good Hackathon [Oncampus - MIT, Manipal]
+### Code for Good Hackathon [Oncampus - MIT, Manipal]
