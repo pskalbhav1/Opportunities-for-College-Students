@@ -8,11 +8,11 @@ The question was pretty vague and eventually it boiled down to finding the exten
 Q1]
 
 ## SDE Intern Interview Round-1 2021 [Oncampus-NITK]
-Q1] 
+Q1] <br>
 Q2]
 
 
 ## SDE Intern Interview Round-2 2021 [Oncampus-NITK]
-Q1]
+Q1] <br>
 Q2]
 
