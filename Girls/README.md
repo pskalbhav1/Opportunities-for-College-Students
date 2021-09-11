@@ -17,6 +17,25 @@
 ### Amazon Wow [All years]
 * Link: https://amazonwowindia.splashthat.com/
 
+Scholarships/Programs for girls:
+1) Grace Hopper Celebration Scholarship
+2) Generatiom
+Google Scholarship (previously known as WTM APAC)
+3) Adobe Women in Tech Scholarship
+4) DE Shaw Ascend Educare Program
+5) Google STEP Internship 
+6) Google WTEF cohort
+7) Google WE program
+8) Amazon Wow
+9) Flipkart <Girls wanna code>
+10) Nutanix Heart women in Tech scholarship
+11) LinkedIn CoachIn 
+12) Twitter DevelopHer
+
+Hackathons(for girls)
+GHCI Codeathon
+LinkedIn Wintathon
+
 
 
 
