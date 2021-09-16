@@ -15,8 +15,24 @@
 ### Nutanix Heart Women in Technology Scholarship [All years]
 * Link: https://www.nutanix.com/scholarships
 
-### Amazon Wow [All years]
+### Amazon Wow [All years, Internship+FTE]
 * Link: https://amazonwowindia.splashthat.com/
+
+###Grace Hopper Celebration Scholarship [Final Year students]
+* Since it was online last year it was open for third years as well
+
+### Google STEP Internship [2nd Year]
+
+### Google WTEF Cohort [1st year & 2nd year]
+
+### Flipkart GWC [2nd & 3rd Year]
+
+###LinkedIn CoachIn [2nd & 3rd Year]
+
+### Twitter DevelopHer [2nd & 3rd Year]
+
+
+
 
 
 Scholarships/Programs for girls:
