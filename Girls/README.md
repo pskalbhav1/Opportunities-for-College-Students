@@ -18,7 +18,7 @@
 ### Amazon Wow [All years, Internship+FTE]
 * Link: https://amazonwowindia.splashthat.com/
 
-###Grace Hopper Celebration Scholarship [Final Year students]
+### Grace Hopper Celebration Scholarship [Final Year students]
 * Since it was online last year it was open for third years as well
 
 ### Google STEP Internship [2nd Year]
@@ -27,7 +27,7 @@
 
 ### Flipkart GWC [2nd & 3rd Year]
 
-###LinkedIn CoachIn [2nd & 3rd Year]
+### LinkedIn CoachIn [2nd & 3rd Year]
 
 ### Twitter DevelopHer [2nd & 3rd Year]
 
