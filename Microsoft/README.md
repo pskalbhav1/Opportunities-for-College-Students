@@ -15,6 +15,9 @@ Time: 90 minutes
 ### Engage Mentorship Program [Offcampus]
 * During May-June
 * 1 month engagment program with internship opportunities for top performers
+* Weekly mentoring sessions with mentor.
+* <b>Experience</b>: 
+
 
 
 
