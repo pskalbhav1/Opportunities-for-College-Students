@@ -5,6 +5,12 @@
 * Opens during February-March every year.<br>
 * Registration Link : https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/ <br>
 
+### Google STEP Internship [2nd Year]
+
+### Google WTEF Cohort [1st year & 2nd year]
+
+### Google WE Program [1st Year]
+
 ### DE Shaw Ascend Educare Program [For second and third year students]
 * Link: https://prepdrive.in/jobs/d-e-shaw-off-campus
 
@@ -21,9 +27,9 @@
 ### Grace Hopper Celebration Scholarship [Final Year students]
 * Since it was online last year it was open for third years as well
 
-### Google STEP Internship [2nd Year]
-
-### Google WTEF Cohort [1st year & 2nd year]
+### Flipkart Runaway [2nd Year]
+* Internship opportunity at flipkart in 2nd year
+* 25 MCQs in 30 mins (CS Fundamentals, DSA, Aptitude, Flipkart questions)
 
 ### Flipkart GWC [2nd & 3rd Year]
 
@@ -31,18 +37,12 @@
 
 ### Twitter DevelopHer [2nd & 3rd Year]
 
+### UberShe++ [2nd Year]
+* Internship opportunity at Uber
 
 
 
 
-Scholarships/Programs for girls:
-1) Grace Hopper Celebration Scholarship
-5) Google STEP Internship 
-6) Google WTEF cohort
-7) Google WE program
-9) Flipkart <Girls wanna code>
-11) LinkedIn CoachIn 
-12) Twitter DevelopHer
 
 Hackathons(for girls)
 GHCI Codeathon
