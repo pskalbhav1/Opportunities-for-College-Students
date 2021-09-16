@@ -1,6 +1,7 @@
 # Scholarship Program List
 
 ### Generation Google Scholarship [For first and second years]
+* Previously known as Women Tech Makers Scholarship 
 * Opens during February-March every year.<br>
 * Registration Link : https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/ <br>
 
@@ -20,8 +21,7 @@
 
 Scholarships/Programs for girls:
 1) Grace Hopper Celebration Scholarship
-2) Generatiom
-Google Scholarship (previously known as WTM APAC)
+
 3) Adobe Women in Tech Scholarship
 4) DE Shaw Ascend Educare Program
 5) Google STEP Internship 
