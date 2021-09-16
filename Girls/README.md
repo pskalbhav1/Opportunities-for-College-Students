@@ -21,15 +21,10 @@
 
 Scholarships/Programs for girls:
 1) Grace Hopper Celebration Scholarship
-
-3) Adobe Women in Tech Scholarship
-4) DE Shaw Ascend Educare Program
 5) Google STEP Internship 
 6) Google WTEF cohort
 7) Google WE program
-8) Amazon Wow
 9) Flipkart <Girls wanna code>
-10) Nutanix Heart women in Tech scholarship
 11) LinkedIn CoachIn 
 12) Twitter DevelopHer
 
