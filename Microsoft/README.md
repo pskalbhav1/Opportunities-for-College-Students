@@ -16,7 +16,7 @@ Time: 90 minutes
 * During May-June
 * 1 month engagment program with internship opportunities for top performers
 * Weekly mentoring sessions with mentor.
-* <b>Experience</b>: 
+* A good opportunity to work on projects, along with guidance from mentors.
 
 
 
