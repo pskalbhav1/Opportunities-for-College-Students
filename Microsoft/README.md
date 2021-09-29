@@ -6,6 +6,8 @@
 * Platform Used: Codility<br>
 * Time : 80 minutes
 
+* Interview: Questions about projects, interested fields, DSA. 
+
 ### Online Test Round 2020 [Oncampus - MIT, Manipal]
 * Q1 - Find Inversion Point <br>
 * Q2 - Compress the given string <br>
