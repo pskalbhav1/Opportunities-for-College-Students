@@ -19,6 +19,7 @@
 * 1 month engagment program with internship opportunities for top performers
 * Weekly mentoring sessions with mentor.
 * A good opportunity to work on projects, along with guidance from mentors.
+* Theme: Create a mockup Microsoft Teams app with additional features.
 
 
 
