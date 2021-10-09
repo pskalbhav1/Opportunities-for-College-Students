@@ -10,7 +10,22 @@
 
 ### Hack Harvard
 
-### Bajaj Finserv hackathon
+### Bajaj Finserv hackathon (Internship)
 
+### American Express CodeStreet (Internship+FullTime)
+
+### MIT Manipal Innovation Fest
+
+### GHCI Codathon
+
+### Myntra Hackathon
+
+### Smart India Hackathon
+
+### Hackverse Hackathon by NITK Web Enthusiasts Club
+
+### IEEESBM Techweek Hackathon
+
+### 
 
 
